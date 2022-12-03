@@ -29,4 +29,4 @@ Robotics Student
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghani35&show_icons=true&locale=en" alt="Abdelghani Bakour" /></p>
 
-[linkedin]: https://www.linkedin.com/in/abdelghani-bakour-255518234
+[linkedin]: https://linkedin.com/in/abdelghani-bakour
