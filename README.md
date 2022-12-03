@@ -1,14 +1,33 @@
-<h1 align="center">Hi <img src="https://github.com/ghani35/ghani35/blob/main/Wave.gif" height="55px" width="55px">, I'm Bakour Abdelghani </h1>
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
+Programmer | Content Creator | Learner
 
+?></h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
-- 🔭 I’m currently studying **Master degree on Robotics** at the **University of Genova**
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 📫 How to reach me **bakourabdelghani@gmail.com**
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **MahbubBengali@gmail.com**
+
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+
+### Connect with me:
+
+[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 ### 🛠 &nbsp;Tech Stack
 
