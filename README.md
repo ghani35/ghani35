@@ -10,7 +10,7 @@ Robotics Student
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 📫 How to reach me **Mbakourabdelghani1999@gmail.com**
+- 📫 How to reach me **bakourabdelghani1999@gmail.com**
 
 ### 🛠 &nbsp;Tech Stack
 
