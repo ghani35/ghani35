@@ -6,7 +6,7 @@ Robotics Student
 </h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
-- 🔭 I’m currently studying **Master degree in Robotics** at the **University of Ganova**
+- 🔭 I’m currently studying **Master degree in Robotics** at the **University of Ganova**.
 
 - 👯 I’m looking to collaborate on **Open Source**
 
