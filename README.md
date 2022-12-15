@@ -27,7 +27,7 @@ Robotics Student
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghani35&show_icons=true&locale=en&layout=compact" alt="Abdelghani Bakour" /></p> 
 
-h
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghani35&show_icons=true&locale=en" alt="Abdelghani Bakour" /></p>
 
