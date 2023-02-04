@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bakour Abdelghani</h1>
 <h3 align="center"
 
-Robotics Student
+Robotics Studentt
 
 </h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
